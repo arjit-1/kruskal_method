@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=kruskalsp
+comment1.params=v\ e
+comment1.target=kruskalsp(int,\ int)
+comment2.params=subsets\ i
+comment2.target=int\ find(kruskalsp.subset[],\ int)
+comment3.params=subsets\ x\ y
+comment3.target=void\ Union(kruskalsp.subset[],\ int,\ int)
+comment4.params=
+comment4.target=void\ KruskalMST()
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6
